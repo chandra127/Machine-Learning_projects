@@ -1,3 +1,3 @@
 # Machine-Learning_projects
 
-Studenet performance dataset from https://archive.ics.uci.edu/ml/index.php
+Student performance, cancer and car performance dataset are from https://archive.ics.uci.edu/ml/index.php
